@@ -1,24 +1,20 @@
 # 👋 Hi, I'm Aditya Thakur
 
 <p align="center">
-  <img src="YOUR_PHOTO_PATH" width="160" height="160" style="border-radius:50%;" alt="Aditya Thakur"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Generative+AI+Developer;Python+Developer;RAG+%26+LLM+Developer;AI%2FML+Enthusiast;Building+Intelligent+AI+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Generative+AI+Developer;Python+Developer;RAG+%26+LLM+Developer;AI%2FML+Enthusiast;Building+Intelligent+AI+Applications" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  🤖 Building intelligent applications with 
+  🤖 Building intelligent applications with
   <b>Python • Generative AI • LLMs • RAG • Machine Learning</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-thakur-61107826b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Adityathakur214">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -30,7 +26,7 @@
 
 🤖 Focused on **Generative AI & LLM Applications**
 
-🐍 Building applications using **Python**
+🐍 Building AI-powered applications using **Python**
 
 🧠 Exploring **Machine Learning & Deep Learning**
 
@@ -54,45 +50,43 @@ Built an intelligent **Retrieval-Augmented Generation (RAG)** application for do
 
 🔹 **Intelligent Query Routing**
 
-Classifies user queries as **General** or **Document-related** and dynamically decides whether vector retrieval is required, reducing unnecessary processing and latency.
+Classifies user queries as **General** or **Document-related** and dynamically decides whether vector retrieval is required, helping reduce unnecessary processing and latency.
 
 🔹 **Complete RAG Pipeline**
 
 ```text
-Documents
-    ↓
-Document Processing
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-ChromaDB
-    ↓
-Vector Retrieval
-    ↓
-Relevant Context
-    ↓
-LLM
-    ↓
-Grounded Response + Sources
+📄 Documents
+      ↓
+✂️ Document Processing & Chunking
+      ↓
+🧠 Embeddings
+      ↓
+🗄️ ChromaDB / Vector Database
+      ↓
+🔎 Relevant Document Retrieval
+      ↓
+📚 Context Formation
+      ↓
+🤖 LLM Generation
+      ↓
+💬 Grounded Response + Source Citations
 ```
 
 🔹 **Context-Aware Generation**
 
-Retrieved document context is integrated with **LLM prompts** to generate relevant, grounded and context-aware responses.
+Retrieved document context is integrated with **LLM prompts** to generate relevant and grounded responses.
 
 🔹 **Source Citations**
 
-Generates responses with **source citations** to make information easier to verify.
+Generated responses include **source citations**, making information easier to verify.
 
 🔹 **FastAPI Backend**
 
-Built a modular backend using **FastAPI** for handling the application and RAG workflow.
+Developed a modular **FastAPI backend** to manage the application and RAG workflow.
 
 🔹 **Streamlit Interface**
 
-Developed an interactive **Streamlit chat interface** for document-based conversations.
+Created an interactive **Streamlit chat interface** for document-based conversations.
 
 🔹 **Deployment**
 
@@ -106,7 +100,7 @@ Deployed the application using **Render** for real-world accessibility.
 
 # 🧠 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -114,7 +108,7 @@ Deployed the application using **Render** for real-world accessibility.
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-## 🤖 Generative AI & Machine Learning
+### 🤖 Generative AI & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
@@ -126,7 +120,7 @@ Deployed the application using **Render** for real-world accessibility.
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-## 📊 Data & Python Libraries
+### 📊 Data & Python Libraries
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -134,7 +128,7 @@ Deployed the application using **Render** for real-world accessibility.
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -145,7 +139,7 @@ Deployed the application using **Render** for real-world accessibility.
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
@@ -180,9 +174,9 @@ Production AI Applications
 
 ## 💄 TryMyLook — AI Virtual Makeup Application
 
-AI-powered virtual makeup application using **Computer Vision and Deep Learning**.
+An AI-powered virtual makeup application using **Computer Vision and Deep Learning** techniques.
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `Python` `Computer Vision` `Deep Learning` `U-Net` `Image Segmentation`
 
@@ -190,9 +184,9 @@ AI-powered virtual makeup application using **Computer Vision and Deep Learning*
 
 ## ⚡ EVHealthAI — Intelligent EV Component Health Monitoring
 
-Machine Learning-based system for monitoring **EV component health** and detecting potential failures.
+A Machine Learning-based system for monitoring **EV component health** and detecting potential failures.
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `Python` `Machine Learning` `Random Forest` `XGBoost` `LSTM` `Isolation Forest`
 
@@ -200,11 +194,25 @@ Machine Learning-based system for monitoring **EV component health** and detecti
 
 ## 📮 AI-Powered Post Office Identification System
 
-AI-based solution for identifying the appropriate delivery post office using **location and pincode-related information**.
+An AI-based solution for identifying the appropriate delivery post office using **location and pincode-related information**.
 
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `Python` `Machine Learning` `AI` `Data Processing`
+
+---
+
+# 🏆 Achievements & Certifications
+
+🏅 **Oracle GenAI Professional Certificate**
+
+🏆 **Smart India Hackathon 2025 — 2nd Rank (Inter-College)**
+
+🎤 **Represented Barkatullah University in Singing at Yuva Utsav**
+
+🥇 **National Debate Competition — 5th TechForSeva (All India)**
+
+💻 **JPMorgan Chase Software Engineering Job Simulation — Forage**
 
 ---
 
@@ -230,20 +238,6 @@ AI-based solution for identifying the appropriate delivery post office using **l
 <p align="center">
   <img src="https://raw.githubusercontent.com/Adityathakur214/Adityathakur214/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-# 🏆 Achievements & Certifications
-
-🏅 **Oracle GenAI Professional Certificate**
-
-🏆 **Smart India Hackathon 2025 — 2nd Rank (Inter-College)**
-
-🎤 **Represented Barkatullah University in Singing at Yuva Utsav**
-
-🥇 **National Debate Competition — 5th TechForSeva (All India)**
-
-💻 **JPMorgan Chase Software Engineering Job Simulation — Forage**
 
 ---
 
