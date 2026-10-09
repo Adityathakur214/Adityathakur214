@@ -261,6 +261,15 @@ An AI-based solution for identifying the appropriate delivery post office using 
 
 ---
 
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityathakur214&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityathakur214&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
 # 🐍 Contribution Snake Animation
 
 <p align="center">
