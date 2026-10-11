@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Aditya Thakur
 
 <p align="center">
@@ -12,10 +11,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-thakur-61107826b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Adityathakur214">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -43,15 +42,15 @@
 
 ## 🤖 RAGFlow AI — Intelligent Query-Routed RAG System
 
-> What if your RAG system could decide when NOT to retrieve? 🤔
+> **What if your RAG system could decide when NOT to retrieve? 🤔**
 
-Built a modular **Retrieval-Augmented Generation (RAG)** application for document-based question answering using Python, LangChain, LLMs, ChromaDB, Embeddings, FastAPI, and Streamlit.
+Built an intelligent **Retrieval-Augmented Generation (RAG)** application for document-based question answering using **Python, LangChain, LLMs, ChromaDB, Embeddings, FastAPI and Streamlit**.
 
 ### 🧠 Key Features
 
 🔹 **Intelligent Query Routing**
 
-Classifies user queries as general or document-related and dynamically decides whether vector retrieval is required, helping avoid unnecessary retrieval operations.
+Classifies user queries as **General** or **Document-related** and dynamically decides whether vector retrieval is required, helping reduce unnecessary processing and latency.
 
 🔹 **Complete RAG Pipeline**
 
@@ -75,27 +74,27 @@ Classifies user queries as general or document-related and dynamically decides w
 
 🔹 **Context-Aware Generation**
 
-Retrieved document context is integrated with LLM prompts to generate relevant and grounded responses.
+Retrieved document context is integrated with **LLM prompts** to generate relevant and grounded responses.
 
 🔹 **Source Citations**
 
-Responses include source citations to help users verify information against retrieved documents.
+Generated responses include **source citations**, making information easier to verify.
 
 🔹 **FastAPI Backend**
 
-Developed a modular FastAPI backend to manage the application and RAG workflow.
+Developed a modular **FastAPI backend** to manage the application and RAG workflow.
 
 🔹 **Streamlit Interface**
 
-Created an interactive Streamlit chat interface for document-based conversations.
+Created an interactive **Streamlit chat interface** for document-based conversations.
 
 🔹 **Deployment**
 
-Deployed the application using Render.
+Deployed the application using **Render** for real-world accessibility.
 
 ### 🛠️ Tech Stack
 
-`Python` `Generative AI` `LLMs` `RAG` `LangChain` `ChromaDB` `Embeddings` `Vector Database` `Prompt Engineering` `FastAPI` `Streamlit` `Render`
+`Python` `Generative AI` `LLMs` `RAG` `LangChain` `ChromaDB` `Embeddings` `Vector Database` `Prompt Engineering` `FastAPI` `Streamlit`
 
 ---
 
@@ -104,48 +103,47 @@ Deployed the application using Render.
 ### 💻 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
 ### 🤖 Generative AI & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### 📊 Data & Python Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -176,7 +174,7 @@ Production AI Applications
 
 ## 💄 TryMyLook — AI Virtual Makeup Application
 
-An AI-powered virtual makeup application using computer vision and deep learning techniques.
+An AI-powered virtual makeup application using **Computer Vision and Deep Learning** techniques.
 
 ### 🛠️ Tech Stack
 
@@ -186,7 +184,7 @@ An AI-powered virtual makeup application using computer vision and deep learning
 
 ## ⚡ EVHealthAI — Intelligent EV Component Health Monitoring
 
-A machine learning-based system for monitoring EV component health and detecting potential failures.
+A Machine Learning-based system for monitoring **EV component health** and detecting potential failures.
 
 ### 🛠️ Tech Stack
 
@@ -196,7 +194,7 @@ A machine learning-based system for monitoring EV component health and detecting
 
 ## 📮 AI-Powered Post Office Identification System
 
-An AI-based solution for identifying the appropriate delivery post office using location and pincode-related information.
+An AI-based solution for identifying the appropriate delivery post office using **location and pincode-related information**.
 
 ### 🛠️ Tech Stack
 
@@ -218,57 +216,27 @@ An AI-based solution for identifying the appropriate delivery post office using 
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Adityathakur214&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Aditya's GitHub Statistics"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityathakur214&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityathakur214&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityathakur214&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/Adityathakur214">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Adityathakur214&theme=tokyo-night&hide_border=true&area=true"
-      alt="Aditya's GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Adityathakur214&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📅 GitHub Contribution Calendar
+# 🐍 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/Adityathakur214"
-    alt="Aditya's GitHub Contribution Calendar"
-    width="100%"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Adityathakur214/Adityathakur214/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Adityathakur214/Adityathakur214/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -276,12 +244,15 @@ An AI-based solution for identifying the appropriate delivery post office using 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-thakur-61107826b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Adityathakur214">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/aditya-thakur-61107826b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Adityathakur214">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -290,7 +261,7 @@ An AI-based solution for identifying the appropriate delivery post office using 
 
 > **Learn. Build. Experiment. Repeat. 🚀**
 
-Working towards becoming a strong **Generative AI / AI Engineer**, building practical AI systems and continuously improving my expertise in **LLMs, RAG, Machine Learning, AI Engineering, and Software Development**.
+Working towards becoming a strong **Generative AI / AI Engineer**, building practical AI systems and continuously improving my expertise in **LLMs, RAG, Machine Learning, AI Engineering and Software Development**.
 
 ---
 
@@ -299,8 +270,5 @@ Working towards becoming a strong **Generative AI / AI Engineer**, building prac
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Adityathakur214&style=for-the-badge&color=blue"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Adityathakur214&style=for-the-badge&color=blue"/>
 </p>
